@@ -1,5 +1,5 @@
 const prompt= require("prompt-sync") ({signt: true});
-const a = prompt ("enter a number");
+const a = prompt ("enter a number" );
 if (a > 0){
     console.log("positive number")
 }else if (a==0){
