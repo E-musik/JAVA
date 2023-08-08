@@ -24,7 +24,7 @@ switch (operator) {
             console.log(`${number} / ${number1} = ${result}`);
         break;
     default:
-        console.log(`invalid operator`);
+        console.log(`invalid number`);
         break;
 }
     
